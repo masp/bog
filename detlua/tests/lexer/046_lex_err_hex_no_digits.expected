@@ -1,0 +1,5 @@
+0 Ident n
+1 Whitespace
+2 Assign =
+3 Whitespace
+4 Error_BadNumber 0x

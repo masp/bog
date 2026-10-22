@@ -1,0 +1,13 @@
+# Compiled executables (Odin emits extensionless binaries)
+detlua/detlua
+detlua/detlua-release
+*.bin
+*.exe
+*.out
+*.o
+*.obj
+*.dSYM/
+*.pdb
+
+# Generated benchmark corpora (bench/gen_lexer_data.py)
+detlua/bench/data/

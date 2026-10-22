@@ -1,0 +1,3 @@
+0 Ident x
+1 Whitespace
+2 Error_UnterminatedComment --[[ open

@@ -1,0 +1,23 @@
+0 Number 3
+1 Whitespace
+2 Number 345
+5 Whitespace
+6 Number 3.0
+9 Whitespace
+10 Number 3.1416
+16 Whitespace
+17 Number 314.16e-2
+26 Whitespace
+27 Number 0.31416E1
+36 Whitespace
+37 Number .5
+39 Whitespace
+40 Number 1e10
+44 Whitespace
+45 Number 2E+3
+49 Whitespace
+50 Number 0xff
+54 Whitespace
+55 Number 0X1A
+59 NL
+60 EOF

@@ -1,0 +1,43 @@
+0 And and
+3 Whitespace
+4 Break break
+9 Whitespace
+10 Do do
+12 Whitespace
+13 Else else
+17 Whitespace
+18 Elseif elseif
+24 Whitespace
+25 End end
+28 Whitespace
+29 False false
+34 Whitespace
+35 For for
+38 Whitespace
+39 Function function
+47 Whitespace
+48 If if
+50 Whitespace
+51 In in
+53 NL
+54 Local local
+59 Whitespace
+60 Nil nil
+63 Whitespace
+64 Not not
+67 Whitespace
+68 Or or
+70 Whitespace
+71 Repeat repeat
+77 Whitespace
+78 Return return
+84 Whitespace
+85 Then then
+89 Whitespace
+90 True true
+94 Whitespace
+95 Until until
+100 Whitespace
+101 While while
+106 NL
+107 EOF

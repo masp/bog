@@ -1,0 +1,27 @@
+0 String 'single'
+8 Whitespace
+9 String "double"
+17 Whitespace
+18 String ""
+20 Whitespace
+21 String ''
+23 NL
+24 String "esc\"aped"
+35 Whitespace
+36 String 'it\'s'
+43 Whitespace
+44 String "tab\tnew\nline"
+60 Whitespace
+61 String "back\\slash"
+74 NL
+75 String 'has "double" inside'
+96 Whitespace
+97 String "has 'single' inside"
+118 NL
+119 String [[long]]
+127 Whitespace
+128 String [==[with ]] inside]==]
+150 Whitespace
+151 String [=[]=]
+157 NL
+158 EOF

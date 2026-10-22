@@ -1,0 +1,7 @@
+print(42)
+print(-7)
+print(nil)
+print(true, false)
+print("a", "b", 3)
+print()
+print("done")

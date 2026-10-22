@@ -1,0 +1,6 @@
+0 Ident print
+5 Lparen (
+6 String "hello world"
+19 Rparen )
+20 NL
+21 EOF

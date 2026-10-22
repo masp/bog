@@ -1,0 +1,12 @@
+-- Lua 5.1 semantics: every number is a double; integral values print without ".0"
+print(7 / 2, 4 / 2)
+print(2 ^ 10)
+print(1 + 0.5)
+print(3 == 3.0)
+print(-10 % 3, 5.5 % 2)
+print(1 / 0, -1 / 0)
+print(0x10, 1e2, 1e15, 2 ^ 53)
+print(0.1 + 0.2, 1 / 3)
+print(tostring(12), tonumber("42"), tonumber("0x1F"), tonumber("abc"))
+print(math.floor(3.7), math.ceil(3.2), math.max(1, 9, 4), math.abs(-3))
+print(math.fmod(7, 3), math.huge > 1e308)

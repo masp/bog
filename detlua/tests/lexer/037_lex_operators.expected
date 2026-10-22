@@ -1,0 +1,53 @@
+0 Plus +
+1 Whitespace
+2 Minus -
+3 Whitespace
+4 Star *
+5 Whitespace
+6 Slash /
+7 Whitespace
+8 Percent %
+9 Whitespace
+10 Caret ^
+11 Whitespace
+12 Hash #
+13 NL
+14 Eq ==
+16 Whitespace
+17 Ne ~=
+19 Whitespace
+20 Le <=
+22 Whitespace
+23 Ge >=
+25 Whitespace
+26 Lt <
+27 Whitespace
+28 Gt >
+29 Whitespace
+30 Assign =
+31 NL
+32 Lparen (
+33 Whitespace
+34 Rparen )
+35 Whitespace
+36 Lbrace {
+37 Whitespace
+38 Rbrace }
+39 Whitespace
+40 Lbracket [
+41 Whitespace
+42 Rbracket ]
+43 Whitespace
+44 Semi ;
+45 NL
+46 Colon :
+47 Whitespace
+48 Comma ,
+49 Whitespace
+50 Dot .
+51 Whitespace
+52 Concat ..
+54 Whitespace
+55 Dots ...
+58 NL
+59 EOF

@@ -1,0 +1,70 @@
+0 Local local
+5 Whitespace
+6 Ident t
+7 Assign =
+8 Lbrace {
+9 Number 1
+10 Comma ,
+11 Number 2
+12 Rbrace }
+13 Ident t
+14 Lbracket [
+15 Hash #
+16 Ident t
+17 Plus +
+18 Number 1
+19 Rbracket ]
+20 Assign =
+21 Ident x
+22 Concat ..
+24 Ident y
+25 NL
+26 If if
+28 Whitespace
+29 Ident a
+30 Le <=
+32 Ident b
+33 Whitespace
+34 And and
+37 Whitespace
+38 Ident c
+39 Ne ~=
+41 Ident d
+42 Whitespace
+43 Then then
+47 Whitespace
+48 Return return
+54 Whitespace
+55 Ident a
+56 Eq ==
+58 Minus -
+59 Number 1
+60 Whitespace
+61 End end
+64 NL
+65 Ident s
+66 Assign =
+67 Ident f
+68 Lparen (
+69 Dots ...
+72 Rparen )
+73 Ident o
+74 Colon :
+75 Ident m
+76 Lparen (
+77 Number 1
+78 Rparen )
+79 Ident a
+80 Dot .
+81 Ident b
+82 Dot .
+83 Ident c
+84 Assign =
+85 Number .5
+87 Semi ;
+88 Ident x
+89 Assign =
+90 Ident a
+91 Comment
+101 NL
+102 EOF

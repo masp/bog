@@ -1,0 +1,1 @@
+The parsing frontend takes a string and converts it into bytecode. The bytecode is then either JIT'd or interpreted to execute.

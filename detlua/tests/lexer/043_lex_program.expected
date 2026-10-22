@@ -1,0 +1,82 @@
+0 Comment
+22 NL
+23 Local local
+28 Whitespace
+29 Function function
+37 Whitespace
+38 Ident fib
+41 Lparen (
+42 Ident n
+43 Rparen )
+44 NL
+45 Whitespace
+47 If if
+49 Whitespace
+50 Ident n
+51 Whitespace
+52 Lt <
+53 Whitespace
+54 Number 2
+55 Whitespace
+56 Then then
+60 Whitespace
+61 Return return
+67 Whitespace
+68 Ident n
+69 Whitespace
+70 End end
+73 NL
+74 Whitespace
+76 Return return
+82 Whitespace
+83 Ident fib
+86 Lparen (
+87 Ident n
+88 Whitespace
+89 Minus -
+90 Whitespace
+91 Number 1
+92 Rparen )
+93 Whitespace
+94 Plus +
+95 Whitespace
+96 Ident fib
+99 Lparen (
+100 Ident n
+101 Whitespace
+102 Minus -
+103 Whitespace
+104 Number 2
+105 Rparen )
+106 NL
+107 End end
+110 NL
+111 NL
+112 For for
+115 Whitespace
+116 Ident i
+117 Whitespace
+118 Assign =
+119 Whitespace
+120 Number 1
+121 Comma ,
+122 Whitespace
+123 Number 10
+125 Whitespace
+126 Do do
+128 NL
+129 Whitespace
+131 Ident print
+136 Lparen (
+137 Ident i
+138 Comma ,
+139 Whitespace
+140 Ident fib
+143 Lparen (
+144 Ident i
+145 Rparen )
+146 Rparen )
+147 NL
+148 End end
+151 NL
+152 EOF

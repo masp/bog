@@ -1,0 +1,21 @@
+0 Comment
+17 NL
+18 Ident a
+19 Whitespace
+20 Comment
+39 NL
+40 Comment
+78 Whitespace
+79 Ident b
+80 NL
+81 Comment
+113 Whitespace
+114 Ident c
+115 NL
+116 Comment
+133 NL
+134 Comment
+178 NL
+179 Ident d
+180 NL
+181 EOF

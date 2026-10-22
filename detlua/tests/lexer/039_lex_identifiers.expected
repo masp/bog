@@ -1,0 +1,23 @@
+0 Ident x
+1 Whitespace
+2 Ident _
+3 Whitespace
+4 Ident _x
+6 Whitespace
+7 Ident x1
+9 Whitespace
+10 Ident camelCase
+19 Whitespace
+20 Ident snake_case
+30 NL
+31 Ident localx
+37 Whitespace
+38 Ident nil2
+42 Whitespace
+43 Ident andor
+48 Whitespace
+49 Ident ends
+53 Whitespace
+54 Ident _G
+56 NL
+57 EOF
